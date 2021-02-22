@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) uses [nextAuth](https://next-auth.js.org/) for github provider authentication
+## About github_auth_db_session_stored  Project
+This project is a Session Based Authentication  implementation for [Next.js](https://nextjs.org/) app using [nextAuth](https://next-auth.js.org/) solution for Github provider and uses Prisma ORM to deal with the sqlite database , the session and users accounts are stored in a database and makes it easy to end user's session and it's more secure , to learn more about JWT VS Session Based Authentication [click here ](https://medium.com/@sherryhsu/session-vs-token-based-authentication-11a6c5ac45e4)
+
 ## ScreenShots
 login page:
 ![](public/screenshots/login.png)
